@@ -30,6 +30,9 @@ h1 {
   min-height: 133px;
   text-align: center; }
 
+.files {
+  text-align: left; }
+
 p {
   color: #242424;
   font-family: "Roboto Slab", serif;
