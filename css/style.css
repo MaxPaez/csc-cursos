@@ -33,6 +33,12 @@ h1 {
 .files {
   text-align: left; }
 
+.ft-text1 {
+  color: #864dce; }
+
+.ft-text2 {
+  color: #EC8332; }
+
 p {
   color: #242424;
   font-family: "Roboto Slab", serif;
